@@ -1,5 +1,5 @@
 ## ethereum prince +neformal
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/73/c3/17/73c317866b1e29e2acdd53cb2f681300.jpg" alt="Prince" />
+  <img src="https://i.ibb.co/gPm4hY9/Frame-60907.png" alt="Prince" />
 </p>
