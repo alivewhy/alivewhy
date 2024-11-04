@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>WHYALIVE</b><br>
-  bitcoin prince and developer
 </p>
 
  **My works:**<br>
