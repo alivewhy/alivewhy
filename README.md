@@ -1,4 +1,4 @@
-## ethereum prince +neformal
+## bitcoin prince +neformal
 
 <p align="center">
   <b>WHYALIVE</b><br>
