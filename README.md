@@ -2,4 +2,13 @@
 
 I have experience with React, Wagmi, Solidity, Next.js
 
-My projects: 
+<b>Website Portfilio</b> ->
+
+<b>Work Experience</b>
+
+<b>My projects:</b>
+
+<b>My Links:</b><br>
+Twiiter: https://x.com/kaizecpp<br>
+Farcaster: https://farcaster.xyz/kaize.eth<br>
+Dm telegram: https://t.me/kaizecpp<br>
